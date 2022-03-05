@@ -1,1 +1,2 @@
 Hi I'm Walter
+f(x): 2x - x + 9
